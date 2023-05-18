@@ -1,4 +1,4 @@
-- En este caso, se usó el servidor 4000 porque el 3000 estaba en uso al momento de crear el ejemplo.
+- En este caso, se usó el puerto 4000 porque el 3000 estaba en uso al momento de crear el ejemplo.
 
 - Si deseas utilizar otro, debes cambiar el valor de la varible 'port' ubicado en 'server.js'
 
