@@ -1,0 +1,9 @@
+Mediante la consola nos ubicamos en el directorio de nuestro archivo y ejecutamos lo siguiente:
+
+'npm init -y' = Genera un archivo 'package.json' que inicializa a node.js y gestiona las dependencias.
+
+'npm install mysql express' = Genera la carpeta 'node_modules' que contiene las librerias necesarias.
+
+- En este caso hemos utilzado 'mysql' para poder interactuar con la base de datos.
+
+- También hemos utilizado 'express' para configurar un servidor y poder operar con los datos sin entrar en conflicto con el navegador.

@@ -1,0 +1,7 @@
+- En este caso, se usó el servidor 4000 porque el 3000 estaba en uso al momento de crear el ejemplo.
+
+- Si deseas utilizar otro, debes cambiar el valor de la varible 'port' ubicado en 'server.js'
+
+- Si se realiza un cambio de puerto, debes indicarlo en el atributo 'action' perteneciente al formulario del archivo 'index.html'
+
+- Actualmente es: http://localhost:4000/insertar

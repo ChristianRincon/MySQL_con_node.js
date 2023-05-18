@@ -1,0 +1,19 @@
+- Una vez creada la base de datos en mysql, debemos iniciar nuestro servidor.
+
+- Abrimos la consola y nos ubicamos en el archivo (Esto va a depender de dónde lo tengas ubicado):
+
+    Ejemplo : cd insercion_de_datos\js
+
+- Luego ejecutamos el servidor con node.js:
+
+    Ejemplo: node .\server.js 
+
+- Si todo va bien, debe salir por consola: "Servidor escuchando en http://localhost:4000 Conectado"
+
+- Luego, ve a tu carpeta ejecuta "index.html" y haz la prueba con tu base de datos.
+
+- Si estás en VS Code, el servidor finalizará si sales del editor.
+
+- Si quieres finalizar el servidor sin salir del editor, colocate en la consola y presiona 'ctrl + c'
+
+- Para comprobar el cierre de servidor en windows, busca por consola 'netstat -ano' y verás un listado de todos los puertos activos.

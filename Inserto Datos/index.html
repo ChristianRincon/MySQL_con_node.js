@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inserto Datos</title>
+</head>
+<body>
+
+    <form action="http://localhost:4000/insertar" method="POST">
+        <input type="text" placeholder="Nombre" id="nombre" name="nombre">
+        <select id="select" name="rubro">
+            <option value="Carpintero">Carpintero</option>
+            <option value="Plomero">Plomero</option>
+            <option value="Pintor">Pintor</option>
+        </select>
+        <input type="submit" id="boton">
+    </form>
+    
+    <script src="../js/Javascript/insertoDatos.js"></script>
+    
+</body>
+</html>
